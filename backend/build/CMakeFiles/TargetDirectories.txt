@@ -1,0 +1,3 @@
+/home/adnan/myPrograms/projects/File Compression Decompression Tool/backend/build/CMakeFiles/file_tool.dir
+/home/adnan/myPrograms/projects/File Compression Decompression Tool/backend/build/CMakeFiles/edit_cache.dir
+/home/adnan/myPrograms/projects/File Compression Decompression Tool/backend/build/CMakeFiles/rebuild_cache.dir

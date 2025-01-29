@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/file_tool.dir/link.d CMakeFiles/file_tool.dir/src/main.cpp.o CMakeFiles/file_tool.dir/src/compress_file.cpp.o CMakeFiles/file_tool.dir/src/decompress_file.cpp.o -o file_tool  -larchive
